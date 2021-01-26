@@ -1,0 +1,6 @@
+Date,Name,Pregnancies,Glucose,Blood Pressure,Skin Thickness,Insulin,BMI,Diabetes Degree Function,Age,Result
+25-10-2020,Ukat,3,120,180,34,0,32.0,0.243,70,Normal
+25-10-2020,Iyon,0,120,120,23,23,34.0,0.231,56,Normal
+25-10-2020,Marni,0,65,80,23,0,23.0,0.11,24,Normal
+25-10-2020,Sumarni,0,68,80,23,0,23.0,0.13,24,Normal
+2020-10-25T18:56:39,Entin,1,100,120,24,0,23.0,0.134,56,Normal
